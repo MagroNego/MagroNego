@@ -1,16 +1,19 @@
-## Hi there 👋
+# Luan
 
-<!--
-**MagroNego/MagroNego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistente Fiscal e estudante de Ciências Contábeis.
 
-Here are some ideas to get you started:
+Tenho interesse em automação de processos e desenvolvimento de ferramentas para rotinas fiscais e administrativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- SQL
+- FastAPI
+- SQLite / SQLCipher
+- Excel
+- PowerShell
+- Git e GitHub
+
+## Atualmente
+
+Desenvolvendo projetos voltados para consulta de dados, geração de relatórios e automação de processos fiscais.
