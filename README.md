@@ -8,7 +8,7 @@ Transformando rotinas fiscais e administrativas em processos mais simples com c�
 
 ## Sobre mim
 
-Sou **Estudante de **Ciências Contábeis**.
+Sou Estudante de Ciências Contábeis.
 
 Tenho interesse em usar tecnologia para reduzir trabalho manual, organizar dados e criar ferramentas úteis para rotinas fiscais e administrativas.
 
