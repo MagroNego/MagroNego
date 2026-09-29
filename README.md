@@ -2,7 +2,6 @@
 
 <div align="center">
 
-Transformando rotinas fiscais e administrativas em processos mais simples com código.
 
 </div>
 
