@@ -41,7 +41,7 @@ Aplicação Web voltada para **consulta de eventos de NF-e, geração de relató
 
 <div align="center">
 
-`Automação` • `Contabilidade` • `Fiscal` • `Dados` • `Python` • `Linux`
+`Automação` • `Contabilidade` • `Fiscal` • `Dados` • `Python`
 
 </div>
 
@@ -49,7 +49,7 @@ Aplicação Web voltada para **consulta de eventos de NF-e, geração de relató
 
 <div align="center">
 
-<sub>Fiscal + Contabilidade + Código</sub>
+<sub>Fiscal + Contabilidade</sub>
 
 </div>
 
